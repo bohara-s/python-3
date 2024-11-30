@@ -31,9 +31,32 @@ print(type(name))
 #z=int(salery)
 
 
-"""
+
 salery=12.33
 print(type(salery))
 salery=int(12.33)
 print(salery)
 print(type(salery))
+"""
+#operator 
+"""
+1,arthmatic operator    /   *   -   +
+2,logical operator  and or  not
+3,assignment  operator   =  
+compression   operator <,>.>=,<=
+bitwise  operator  =||
+
+
+print(4+5)
+print(5*5)
+print(3//6)
+print(5%2)
+print(8-6)
+"""
+x=2
+y=4
+print(f"sum of {x} and {y} is",x+y )
+print(f"div of {x} and {y} is",x/y )
+print(f"multi of {x} and {y} is",x*y )
+print(f"sub of {x} and {y} is",x-y )
+print(f"mod of {x} and {y} is",x%y )
